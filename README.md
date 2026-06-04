@@ -32,3 +32,4 @@ Learnify uses AI to transform study materials into concise summaries, interactiv
 ## Status
 
 Completed academic project focused on improving student learning and revision through AI-powered educational tools.
+Contributions focused on AI-powered educational assistance and personalized learning support.
