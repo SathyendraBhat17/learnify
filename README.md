@@ -6,6 +6,10 @@ Learnify is an AI-powered learning assistant that helps students study more effi
 
 Students often spend significant time creating notes, flashcards, and practice questions manually. This process can be time-consuming and reduce the time available for actual learning and revision.
 
+## Demo
+
+![Learnify Demo](./LEARNIFY.gif)
+
 ## Solution
 
 Learnify uses AI to transform study materials into concise summaries, interactive flashcards, and personalized quizzes, helping students learn faster, revise effectively, and improve knowledge retention.
